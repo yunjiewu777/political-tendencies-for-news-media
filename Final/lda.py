@@ -2,8 +2,12 @@ import gensim
 from gensim.utils import simple_preprocess
 from gensim.parsing.preprocessing import STOPWORDS
 from nltk.stem import WordNetLemmatizer, SnowballStemmer
+from gensim import corpora, models
 from nltk.stem.porter import *
 import numpy as np
+import pyLDAvis
+import pyLDAvis.gensim_models as gensimvis
+
 np.random.seed(400)
 import json
 import nltk
@@ -39,9 +43,59 @@ if __name__ == '__main__':
     dictionary = gensim.corpora.Dictionary(processed_docs)
     bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
 
+    del_ids = [k for k, v in dictionary.items() if v in ['year','say','peopl','like']]
+    print(del_ids)
+
+
+    gensim.corpora.MmCorpus.serialize('MmCorpusTest.mm', bow_corpus)
+    dictionary.filter_tokens(bad_ids=del_ids)
+    corpusMm = gensim.corpora.MmCorpus('MmCorpusTest.mm')
+    np_corpus = gensim.matutils.corpus2dense(corpusMm, corpusMm.num_terms, num_docs=corpusMm.num_docs).T
+    np_corpus = np.delete(np_corpus, del_ids, 1).T
+    new_corpus = gensim.matutils.Dense2Corpus(np_corpus)
+
+    num_topics = 3
+    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
+                                id2word=dictionary,
+                                passes=4, alpha=[0.01] * num_topics,
+                                eta=[0.01] * len(dictionary.keys()))
+    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
+        print(str(i) + ": " + topic)
+        print()
+
+    print("------------------------------------------------------------------------------")
+
+    num_topics = 4
+    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
+                                id2word=dictionary,
+                                passes=4, alpha=[0.01] * num_topics,
+                                eta=[0.01] * len(dictionary.keys()))
+    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
+        print(str(i) + ": " + topic)
+        print()
+
+    print("------------------------------------------------------------------------------")
+
+    num_topics = 5
+    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
+                                id2word=dictionary,
+                                passes=4, alpha=[0.01] * num_topics,
+                                eta=[0.01] * len(dictionary.keys()))
+    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
+        print(str(i) + ": " + topic)
+        print()
+
+
+
+    vis = gensimvis.prepare(topic_model=lda_model, corpus=new_corpus, dictionary=dictionary)
+    pyLDAvis.enable_notebook()
+    pyLDAvis.display(vis)
+
+
+"""
     document_num = 20
     bow_doc_x = bow_corpus[document_num]
-    lda_model =  gensim.models.LdaMulticore(bow_corpus,
+    lda_model =  gensim.models.LdaMulticore(new_corpus,
                                        num_topics = 4,
                                        id2word = dictionary,
                                        passes = 10,
@@ -62,8 +116,4 @@ if __name__ == '__main__':
 
     # Term Document Frequency
     corpus = [dictionary.doc2bow(text) for text in processed_docs]
-
-    # Visualize the topics
-    LDAvis_prepared = pyLDAvis.prepare(lda_model, term_frequency=corpus, vocab=dictionary)
-    print(LDAvis_prepared)
-    
+ """
