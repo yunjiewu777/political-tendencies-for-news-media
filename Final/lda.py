@@ -47,21 +47,21 @@ if __name__ == '__main__':
     bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
 
     # immigration
-    # #del_ids1 = [k for k, v in dictionary.items() if v in ['year','say','peopl','like']]
+    del_ids1 = [k for k, v in dictionary.items() if v in ['year','say','peopl','like']]
     # coronavirus
     # del_ids2 = [k for k, v in dictionary.items() if v in ['say','like','go']]
     # healthcare
-    del_ids3 = [k for k, v in dictionary.items() if v in ['say', 'peopl', 'year', 'go']]
+    #del_ids3 = [k for k, v in dictionary.items() if v in ['say', 'peopl', 'year', 'go']]
 
-    # print(del_ids1)
+    print(del_ids1)
     # print(del_ids2)
-    print(del_ids3)
+    #print(del_ids3)
 
     gensim.corpora.MmCorpus.serialize('MmCorpusTest.mm', bow_corpus)
-    dictionary.filter_tokens(bad_ids=del_ids3)
+    dictionary.filter_tokens(bad_ids=del_ids1)
     corpusMm = gensim.corpora.MmCorpus('MmCorpusTest.mm')
     np_corpus = gensim.matutils.corpus2dense(corpusMm, corpusMm.num_terms, num_docs=corpusMm.num_docs).T
-    np_corpus = np.delete(np_corpus, del_ids3, 1).T
+    np_corpus = np.delete(np_corpus, del_ids1, 1).T
     new_corpus = gensim.matutils.Dense2Corpus(np_corpus)
 
     num_topics = 5
