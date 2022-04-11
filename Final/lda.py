@@ -18,6 +18,8 @@ import pyLDAvis
 import gensim.corpora as corpora
 
 stemmer = SnowballStemmer("english")
+
+
 def lemmatize_stemming(text):
     return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
 
@@ -31,8 +33,9 @@ def preprocess(text):
 
     return result
 
+
 if __name__ == '__main__':
-    with open("../res/immigration.json") as input_file:
+    with open("../res/data/healthcare.json") as input_file:
         imm = json.load(input_file)
 
     processed_docs = []
@@ -43,38 +46,23 @@ if __name__ == '__main__':
     dictionary = gensim.corpora.Dictionary(processed_docs)
     bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
 
-    del_ids = [k for k, v in dictionary.items() if v in ['year','say','peopl','like']]
-    print(del_ids)
+    # immigration
+    # #del_ids1 = [k for k, v in dictionary.items() if v in ['year','say','peopl','like']]
+    # coronavirus
+    # del_ids2 = [k for k, v in dictionary.items() if v in ['say','like','go']]
+    # healthcare
+    del_ids3 = [k for k, v in dictionary.items() if v in ['say', 'peopl', 'year', 'go']]
 
+    # print(del_ids1)
+    # print(del_ids2)
+    print(del_ids3)
 
     gensim.corpora.MmCorpus.serialize('MmCorpusTest.mm', bow_corpus)
-    dictionary.filter_tokens(bad_ids=del_ids)
+    dictionary.filter_tokens(bad_ids=del_ids3)
     corpusMm = gensim.corpora.MmCorpus('MmCorpusTest.mm')
     np_corpus = gensim.matutils.corpus2dense(corpusMm, corpusMm.num_terms, num_docs=corpusMm.num_docs).T
-    np_corpus = np.delete(np_corpus, del_ids, 1).T
+    np_corpus = np.delete(np_corpus, del_ids3, 1).T
     new_corpus = gensim.matutils.Dense2Corpus(np_corpus)
-
-    num_topics = 3
-    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
-                                id2word=dictionary,
-                                passes=4, alpha=[0.01] * num_topics,
-                                eta=[0.01] * len(dictionary.keys()))
-    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
-        print(str(i) + ": " + topic)
-        print()
-
-    print("------------------------------------------------------------------------------")
-
-    num_topics = 4
-    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
-                                id2word=dictionary,
-                                passes=4, alpha=[0.01] * num_topics,
-                                eta=[0.01] * len(dictionary.keys()))
-    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
-        print(str(i) + ": " + topic)
-        print()
-
-    print("------------------------------------------------------------------------------")
 
     num_topics = 5
     lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
@@ -85,12 +73,9 @@ if __name__ == '__main__':
         print(str(i) + ": " + topic)
         print()
 
-
-
     vis = gensimvis.prepare(topic_model=lda_model, corpus=new_corpus, dictionary=dictionary)
     pyLDAvis.enable_notebook()
     pyLDAvis.display(vis)
-
 
 """
     document_num = 20
