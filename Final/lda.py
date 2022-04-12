@@ -8,7 +8,7 @@ import numpy as np
 import pyLDAvis
 import pyLDAvis.gensim_models as gensimvis
 
-np.random.seed(400)
+
 import json
 import nltk
 import pandas as pd
@@ -32,7 +32,7 @@ def preprocess(text):
     return result
 
 if __name__ == '__main__':
-    with open("../res/immigration.json") as input_file:
+    with open("../res/data/immigration.json") as input_file:
         imm = json.load(input_file)
 
     processed_docs = []
@@ -62,6 +62,10 @@ if __name__ == '__main__':
     for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
         print(str(i) + ": " + topic)
         print()
+
+    bow_vector = dictionary.doc2bow(preprocess('I LOVE YOU'))
+    print(lda_model[bow_vector])
+
 
     print("------------------------------------------------------------------------------")
 
