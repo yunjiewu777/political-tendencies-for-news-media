@@ -1,0 +1,20 @@
+A shortage of a testing component is hobbling the U.S. battle against COVID-19 as the number of confirmed coronavirus cases rises .
+Earlier testing was marred by problems that produced potentially inaccurate results . As U.S. testing ramps up , some labs have run short on the kits and components needed to determine whether samples taken from ailing patients confirm the presence of the novel coronavirus .
+The number of confirmed COVID-19 cases in the USA rose to 1,050 , and there have been 29 deaths , as of Wednesday morning , according to Johns Hopkins University .
+In some cases , the shortage prompted lab personnel to borrow components from colleagues using similar kits for testing unrelated to COVID-19 , said Marc Lipsitch , a Harvard University epidemiologist . The extent of the problem could not immediately be determined .
+`` What we need is a lot more testing , right now , '' Lipsitch said , but testing kits and components `` are in very short supply . ''
+Some of the testing components are manufactured by Qiagen , a multinational leader in molecular testing headquartered in Germany . Responding to spiking demand for its products , the company increased production to three shifts a day , seven days a week , at plants in Germany and Spain .
+`` This now is an unprecedented situation , '' said Qiagen corporate spokesman Thomas Theuringer . `` Demand is exploding , especially in the United States ... and this is stretching our capacity . ''
+The Centers for Disease Control and Prevention is looking into the shortage , Director Robert Redfield told Politico on Tuesday . “ I ’ m confident of the actual test that we have , but as people begin to operationalize the test , they realize there ’ s other things they need , '' he said .
+Michael Mina , a Harvard professor of epidemiology , tweeted Monday that the testing components are critical .
+The shortage results in part from the increase in COVID-19 testing across the USA after a slow start due to problems with testing kits from the CDC . State and local health officials responded by calling on the federal government for authorization to use tests they developed . That began in many places over the past week .
+Testing is done by health departments and clinical diagnostic laboratory giants such as Quest Diagnostics and Laboratory Corp. of America .
+Testing for coronavirus typically uses reagents , which are chemical substances used in laboratory analyses . The reagents extract , purify and stabilize RNA , or ribonucleic acid , in samples taken from patients suspected of having COVID-19 .
+That 's the first step in confirming or ruling out a tentative diagnosis . Qiagen says it leads the world in this type of testing .
+Testing demand has led to a shortage of reagents for the RNA extraction process , said Dr. Eric Blank , the chief program officer for the Association of Public Health Laboratories , which represents state and local governmental health laboratories in the USA and responds to disease outbreaks .
+`` We are now in the phase of the response where demand for testing is greater than the tests available , even when the private/commercial sector is doing testing , '' Blank said in an email .
+The Society for Microbiology posted a warning on its website that the shortage could delay COVID-19 testing .
+`` We are deeply concerned that as the number of tests increases dramatically over the coming weeks , clinical labs will be unable to deploy them without these critical components , '' the microbiology group said .
+COVID-19 positive tests will spike : Former FDA chief warns of spike in US coronavirus cases
+Along with increasing its production , Qiagen hired more employees and increased manufacturing at a facility in Germantown , Maryland .
+`` Given our ongoing supply to the United States , '' Theuringer said , `` we are now working directly with the customers to understand their flexibility and specific needs in order to be able to ensure broad availability of our products . ''

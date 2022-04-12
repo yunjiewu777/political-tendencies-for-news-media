@@ -1,0 +1,12 @@
+Washington ( CNN ) - The Obama administration has set a goal of 80 % of HealthCare.gov users being able to successfully enroll in an insurance plan by the November 30 deadline , a source familiar with the project told CNN .
+The 80 % number was first reported by the Washington Post .
+A senior administration source said that “ most ’ ’ users should be able to smoothly navigate the online marketplace .
+The source added that the administration expects glitches to continue to pop up on the site after December 1 , but technical people are working diligently to minimize the problems .
+`` We are measuring progress by key metrics including error rate - once as high as 6 % –now less than 1 % but needs to be lower ; and response time - which was eight seconds several weeks ago and is now less than one second –still working to get it faster , '' the senior administration source said .
+An industry source cautioned the figure was “ not well defined . ”
+`` The 80 % figure has been discussed in the war room , but the figure is not well defined . It sounds more like a benchmark for the policy than the technical capability of the site , '' the source said . `` A technical benchmark would measure whether people can buy health care plans online and the related metrics involved in the transaction ( page load times , error rates , etc. ) . ''
+Another industry source explained some of the nuances of the November 30 goal , saying that “ 80 % should be able to use the site effectively , ” but due to a variety of issues ( mainly complicated situations ) , some may “ still have to finish up the enrollment process offline . ”
+“ But they would still be able to have a positive website experience , '' the source added .
+The senior administration source emphasized that technical teams are working 24 hours a day to improve the website .
+CNN earlier reported that technical teams are working in crowded conference rooms at a McLean , Virginia , hub to fix the troubled website . Each day the professionals discuss progress and outstanding issues from the website during two formal calls , one in the morning and one in the evening .
+The so-called `` war room calls '' are led from a designated HealthCare.gov site in nearby Herndon , Virginia , another Washington suburb . Employees working to fix the website at various D.C. area locations are linked by videoconference .

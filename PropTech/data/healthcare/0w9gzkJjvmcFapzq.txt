@@ -1,0 +1,14 @@
+A top tech official for the ObamaCare exchanges said just days before the launch of the troubled health law website that people inside the White House were nervous the site would be unavailable after its launch and would be a big embarrassment , ███ has learned .
+A Sept. 25 email chain from HealthCare.gov project manager Henry Chao , obtained by ███ , suggests Obama administration officials had more fears than they let on publicly that the website would have problems before its Oct. 1 launch .
+In the email to a number of apparent colleagues , Chao suggests the administration should design a more palatable way to tell the public that the website was not working in case it failed after the launch , saying that such a move could help prevent the media from “ just ramping up the hyperbole about hc.gov not [ being ] functional . ”
+The email refers to a meeting the previous day , Sept. 24 , that included White House Chief Technology Officer Todd Park and CMS chief Marilyn Tavenner .
+“ When Todd Park and Marilyn was ( sic ) here yesterday one of the things Todd conveyed was this fear the WH has about hc.gov being unavailable , ” wrote Chao .
+He added of Park : “ He will come back again and ask on 9/30 because after knowing him for the past 3+ years I can tell when he will hang on to something for a long time . Todd does have a good point and I think we should have a more comprehensive answer as to how we will ensure high availability . ”
+Chao also attached to the email an image of HealthCare.gov saying , “ The system is down at the moment . We ’ re working to resolve the issue as soon as possible . Please try again later . ”
+A White House official tells ███ the “ fear ” referenced in the email refers to warnings that glitches were likely during the rollout , as with any rollout of a major website .
+In this case , the official added , the glitches they were worried about apparently had to do with high traffic , which did occur . The official said that is “ a good indication that there 's high demand for the product . ”
+The Obama administration has repeatedly blamed the website ’ s problems on unexpectedly high traffic .
+In the email , Chao suggested the team should come up with a more palatable way to explain problems with the website so that the media did not pounce .
+“ Can you think about a better way to convey to the public when the site is not available ? ” wrote Chao . “ I am picturing in my mind all the major print and online publications taking screenshots of what is below and just ramping up the hyperbole about hc.gov not [ being ] functional . ”
+President Obama told reporters at a Nov. 14 news conference he was never told directly of the problems with the website before its launch .
+“ I was not informed directly that the website would not be working as -- the way it was supposed to , ” he said .

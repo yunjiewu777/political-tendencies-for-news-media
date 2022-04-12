@@ -1,0 +1,14 @@
+( CNN ) – With a little more than two weeks to go before the Obama administration ’ s deadline for repairing the problem-plagued HealthCare.gov , a close parsing of White House officials ’ words shows a completely functioning website isn ’ t likely to materialize .
+Instead , the White House and other agencies are predicting the website will work for a “ vast majority ” of Americans - while admitting the repair job is uncovering even more problems with the failed digital property than were previously known .
+The administration ’ s technology chief , Todd Park , was set to be peppered with questions about those problems Wednesday during an appearance before the House Oversight and Government Reform panel .
+On Friday , the man tasked with the digital fixes said the site “ remains a long way from where it needs to be ” as more and more problems emerge .
+“ As we put new fixes in , volume is increasing , exposing new storage capacity and software application issues , ” Jeff Zients told reporters on a conference call .
+And at Tuesday ’ s White House Press Briefing , Press Secretary Jay Carney again said there was “ more work to be done ” on repairing HealthCare.gov .
+Carney , along with Zients and other administration officials , have repeatedly said the November 30 deadline is to get the health care website working for a “ vast majority ” of Americans looking to enroll in the Obamacare exchanges .
+On October 25 , when Zients first mentioned the end-of-the-month deadline , he said the “ vast majority ” of Americans would be able to use all elements of the website by November 30 .
+President Obama , speaking in Dallas last week , said his technology team was “ working overtime to get this fixed , ” and again spelled out the end-of-the-month deadline .
+“ The website is already better than it was at the beginning of October , and by the end of this month , we anticipate that it is going to be working the way it is supposed to , ” he said in Texas . But note the use of the word `` anticipate . ''
+Speaking to NBC last week , Obama appeared to hedge his bets , saying he was “ confident that ( HealthCare.gov ) will be even better by November 30th and that the majority of people are going to be able to get on there . ”
+The November 30 deadline allows just 15 days for enrollees to sign up for a health plan that kicks in January 1 . In order to avoid a penalty for not having insurance , Americans must enroll by March 31 .
+HHS spokeswoman Joanne Peters said `` the challenges we are addressing today are a snapshot of November 12 , not November 30 . ''
+`` We are working 24/7 to make improvements so that by the end of the month so that the site is working smoothly for the vast majority of users , '' Peters continued . `` We are making progress , including fixes to reduce error rates and get the site moving faster . ''

@@ -5,7 +5,7 @@ test_data_folder: datasets/dev-articles
 labels_path: datasets/train-task1-SI.labels
 gold_annot_file: results/dev-task-SI.labels
 propaganda_techniques_file: tools/data/propaganda-techniques-names-semeval2020task11.txt
-data_dir: cached_datasets/SI/
+data_dir: data/coronavirus
 train_file: train.tsv
 dev_file: dev.tsv
 test_file: test.tsv

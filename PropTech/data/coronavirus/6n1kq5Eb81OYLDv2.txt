@@ -1,0 +1,48 @@
+A vaccine to protect against the coronavirus will be many things wrapped up in a small vial : a harbinger of a return to normalcy , a scientific feat for the ages and , depending on when it arrives , a politically potent symbol .
+The timeline for how long it will take to get that vaccine is a moving target and depends on whom you ask – and when .
+Anthony Fauci , the top infectious disease expert at the National Institutes of Health , has repeatedly said he hopes a vaccine could be available by the end of 2020 or early 2021 .
+President Donald Trump promised a vaccine will be ready by the end of this year or by January . A White House-led partnership , Operation Warp Speed , allocated almost $ 10 billion to the effort , and as much as $ 1.2 billion has been promised on a single vaccine candidate .
+Pharmaceutical giant AstraZeneca pledged to have at least 300 million doses for the USA delivered as early as October – probably even before a vaccine is approved .
+In an effort to cut through some of the hyperbole and get a realistic sense of when a vaccine will be widely available , ███ created a panel of nationally known experts in medicine , virology , immunology , logistics and supply chain issues to estimate how far we are from a coronavirus vaccine . Every month , these experts will track progress and highlight inevitable setbacks .
+If you think of it as a clock ticking from midnight ( when the pandemic began ) to noon ( when vaccines will be widely available in the USA and life returns to something approaching normal ) , then as of June , the panel said it ’ s about 4 a.m .
+“ The sun has not yet peeked over the horizon , but the horizon glows in the East . We are no longer in darkness , ” said Dr. Kelly Moore , associate director of immunization education with the Immunization Action Coalition .
+The ███ vaccine panel is designed to offer readers an objective , nonpartisan understanding of how close we are to getting an effective vaccine distributed to the nation ’ s residents . We ’ re about a third of the way there , they said .
+“ I think we ’ ll have a vaccine by the middle of next year , ” said Paul Offit , director of the Vaccine Education Center at Children ’ s Hospital in Philadelphia .
+Pamela Bjorkman , a structural biologist at Caltech University , said she agrees , though one of the hardest parts – scaling up to make enough doses of the vaccine – will be a major challenge .
+“ I subtracted an hour from the one-third of the way there estimate to account for manufacturability and distribution issues , ” she said via email .
+The challenge is n't just to create a safe and effective vaccine – more than 11 possible candidates will be in human testing this summer . But for a vaccine to end up in a pharmacy or doctor 's office near you , companies will have to produce hundreds of millions of doses , then deliver them across the country and eventually the world .
+For June , 11 panelists answered our timeline question . Their answers fell between 2 a.m. and 6 a.m. , with a median of 4 a.m. – the point where half of the answers were earlier and half were later .
+The majority said progress on coronavirus vaccines is remarkably far along as scientists work 24/7 on ways to end the pandemic .
+‘ The brightest minds in the world are in this fight , and they are moving with an incredible sense of urgency , ” said Dr. Michelle McMurry-Heath , president and CEO of the Biotechnology Innovation Organization , a trade group .
+In a historic and global effort , the basic science behind dozens of vaccine development efforts has mostly been finished in the six months since the virus first appeared .
+“ The vaccine candidates are largely in hand , ” said Dr. William Schaffner , a professor of preventive medicine at Vanderbilt University .
+The global effort has been stellar , said Florian Krammer , a virologist at the Icahn School of Medicine at Mount Sinai in New York City .
+“ I have never seen science move so fast , ” he said .
+Though the science to come up with candidate vaccines was hard , it wasn ’ t insurmountable , given advances in genetics , virology and immunology .
+“ Science has provided cutting-edge technologies that were not possible a decade ago , ” said Prakash Nagarkatti , an immunologist and vice president for research for the University of South Carolina .
+Many of the vaccines in the pipeline rely on new technologies whose underlying science is understood , although the actual techniques are being worked out .
+Having a vaccine for just the USA wo n't protect us , said Erica Ollmann Saphire , a structural biologist and professor at the La Jolla Institute for Immunology .
+The important date isn ’ t when the first person in the USA can go to the doctor ’ s office and get the first shot . The important date is when we have enough coverage to prevent resurgence and recirculation among the human population , she said .
+`` We have seen very clearly this year that virus anywhere can become virus everywhere , '' she said .
+The larger issues looming for these experts is always the messy and impossible-to-project outcomes : how safe and effective the vaccines will be when tested in people . Chemistry is a science of formulas . Biology is the very stuff of life , and as such is almost impossible to predict .
+The hardest questions to answer are still to come , they said . Will a vaccine provide lasting protection ? Is it safe enough to provide to billions of people ? Can it be produced quickly and reliably in huge quantities ?
+Though the world clamors for a vaccine as quickly as possible , there can be no shortchanging safety for economic or political interests , said Dr. Gregory Poland , director of the Mayo Vaccine Research Group and editor-in-chief of the journal Vaccine .
+Especially , he said , when it comes time to license vaccines for use .
+“ The Food and Drug Administration needs to demonstrate that it will not kowtow to political pressures and will do all the due diligence , safety testing and review necessary , ” Poland said .
+The way this work is presented to the public is crucial and the urgency has gotten in the way of emphasizing the care that goes into the process , Schaffner said .
+“ When we say that we are ‘ hurrying , moving fast , etc. , ’ what the public thinks is that we are cutting corners , ” he said . “ The messaging has been unfortunate . ”
+The goal must be to build public confidence in whatever vaccines become available by “ showing our work openly and honestly , ” Moore said . For the world to line up for shots when they become available , researchers must “ bring the public along as partners in the process as we have not done perhaps since the early days of the polio vaccine . ”
+No estimate can totally predict the unimaginable complexities of the body ’ s immune response to a brand new vaccine , so they remain just that , estimates . Presuming we can know the outcome is impossible .
+“ You have an unusual virus , a bat coronavirus that has unusual features , and we ’ re going to meet that with vaccine strategies that have never been tested before in large populations . What , ” Offit asked , “ could possibly go wrong ? ”
+███ received responses from 11 scientists and researchers , asking how far they think the vaccine development effort has progressed since Jan. 1 , when the virus was first internationally recognized . Those responses were aggregated , and the median was calculated .
+Pamela Bjorkman , structural biologist at the California Institute of Technology
+Dr. Florian Krammer , virologist at the Icahn School of Medicine at Mount Sinai in New York City
+Dr. Michelle McMurry-Heath , president and CEO of Biotechnology Innovation Organization ( BIO )
+Dr. Kelly Moore , associate director of immunization education , Immunization Action Coalition ; former member of the CDC Advisory Committee on Vaccine Practices ; chair , World Health Organization Immunization Practices Advisory Committee
+Prakash Nagarkatti , immunologist , vice president for research , University of South Carolina
+Dr. Paul Offit , director of the Vaccine Education Center and an attending physician in the Division of Infectious Diseases at Children 's Hospital of Philadelphia
+Dr. Greg Poland , director , Mayo Clinic 's Vaccine Research Group , editor-in-chief , Vaccine
+Dan Salmon , Johns Hopkins Bloomberg School of Public Health Institute for Vaccine Safety
+Erica Ollmann Saphire , structural biologist , professor at the La Jolla Institute for Immunology
+Dr. William Schaffner , professor of preventive medicine , Department of Health Policy , and professor of medicine , Division of Infectious Diseases , Vanderbilt University
+Prashant Yadav , senior fellow , Center for Global Development , medical supply chain expert
