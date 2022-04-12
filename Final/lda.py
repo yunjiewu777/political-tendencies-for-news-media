@@ -63,8 +63,9 @@ if __name__ == '__main__':
         print(str(i) + ": " + topic)
         print()
 
-    bow_vector = dictionary.doc2bow(preprocess('I LOVE YOU'))
+    bow_vector = dictionary.doc2bow(preprocess(imm[1]['content']))
     print(lda_model[bow_vector])
+    print(imm[1])
 
 
     print("------------------------------------------------------------------------------")
