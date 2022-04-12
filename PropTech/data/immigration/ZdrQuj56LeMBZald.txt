@@ -1,0 +1,18 @@
+From 1820 to 2013 , 79 million people obtained lawful permanent resident status in the United States . The interactive map below visualizes all of them based on their prior country of residence . The brightness of a country corresponds to its total migration to the U.S. at the given time .
+Use the controls at the bottom to stop / resume the animation or to move back and forth in time .
+View the map as a video below , or view the full screen interactive version
+Two Centuries of U.S. Immigration ( 1 dot = 10,000 people )
+Over time , the sources of immigration trace a clear path across the world .
+Through most of the 1800 ’ s , immigration came predominantly from Western Europe ( Ireland , Germany , the U.K. ) . Toward the end of the century , countries further east in Europe ( Italy , Russia , Hungary ) took over as the largest source of migration . Beginning in the early 1900 ’ s , most immigrants arrived from the Americas ( Canada , Mexico ) . And the last few decades have seen a rise in migration from Asia . The same trends are clear looking at the history of New York City ’ s foreign born population .
+Here are the largest immigration “ waves ” charted over time , showing the progression .
+While it may seem that immigration over the last few decades has been higher than ever before , the picture looks very different when viewed relative to the size of the U.S. population .
+Here is the same chart , with the immigration shown as a percentage of the U.S. population .
+Of my four grandparents , one is of Japanese descent , two are from Europe ( a Polish Jew and an Italian Catholic ) , and one is native American . So genealogy and immigration flows have long been fascinations of mine .
+What I think is particularly interesting about immigration to the U.S. is that each “ wave ” coming in from a particular country has a story behind it — usually escaping persecution ( e.g . Jews escaping Russia after the May Laws were enacted , the Cuban Revolution ) or major economic troubles ( e.g . the Irish Potato Famine , the collapse of southern Italy after the Italian Unification ) .
+There are plenty of dark spots on United States ’ history , but the role it has played as a sanctuary for troubled people across the world is a history I feel very proud to be a part of .
+If you would like to read more about what caused each of these groups to come to the U.S. , this graphic summarizes some of the major events .
+If you liked this map , sign up to be notified of new ███ posts
+Immigration data : Department of Homeland Security ’ s Office of Immigration Statistics ( download : full report , data in Excel format ) . The data used for the map is “ persons obtaining lawful permanent resident status , ” which does not include illegal immigration or , as pointed out by @ artsyTrish , people brought to the U.S. as slaves ( “ forced immigration ” ) .
+: Department of Homeland Security ’ s Office of Immigration Statistics ( download : full report , data in Excel format ) . The data used for the map is “ persons obtaining lawful permanent resident status , ” which does not include illegal immigration or , as pointed out by @ artsyTrish , people brought to the U.S. as slaves ( “ forced immigration ” ) . World borders : Natural Earth
+Here is everyone who ’ s emigrated to the U.S. since 1820 ( 1 dot = 10,000 people ) https : //t.co/SaQFzv4Rgvhttps : //t.co/CqijaH8a1n — Max Galka ( @ galka_max ) May 4 , 2016
+My latest project , Elementus , aims to bring transparency to the cryptocurrency market . Check out our blog for some crypto-related data visualizations .
