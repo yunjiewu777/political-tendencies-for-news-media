@@ -1,11 +1,11 @@
 ---------------dataset params---------------
 
 train_data_folder: datasets/train-articles
-test_data_folder: datasets/dev-articles
+test_data_folder: data/coronavirus
 labels_path: datasets/train-task1-SI.labels
 gold_annot_file: results/dev-task-SI.labels
 propaganda_techniques_file: tools/data/propaganda-techniques-names-semeval2020task11.txt
-data_dir: data/coronavirus
+data_dir: cached_datasets/SI/
 train_file: train.tsv
 dev_file: dev.tsv
 test_file: test.tsv
@@ -25,7 +25,7 @@ predicted_labels_files: [model_checkpoints/si_roberta_crf/test_predictions.txt]
 
 model_type: roberta
 config_name: roberta-large
-model_name_or_path: model_checkpoints/ner_roberta_large_uncased_crf_7700
+model_name_or_path: roberta-large
 max_seq_length: 256
 per_gpu_train_batch_size: 8
 per_gpu_eval_batch_size: 1
