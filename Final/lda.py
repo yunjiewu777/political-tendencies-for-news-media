@@ -8,7 +8,7 @@ import numpy as np
 import pyLDAvis
 import pyLDAvis.gensim_models as gensimvis
 
-np.random.seed(400)
+
 import json
 import nltk
 import pandas as pd
@@ -35,8 +35,7 @@ def preprocess(text):
 
 
 if __name__ == '__main__':
-    with open("../res/data/healthcare.json") as input_file:
-        imm = json.load(input_file)
+    with open("../res/data/immigration.json") as input_file:        imm = json.load(input_file)
 
     processed_docs = []
 
@@ -63,6 +62,33 @@ if __name__ == '__main__':
     np_corpus = gensim.matutils.corpus2dense(corpusMm, corpusMm.num_terms, num_docs=corpusMm.num_docs).T
     np_corpus = np.delete(np_corpus, del_ids1, 1).T
     new_corpus = gensim.matutils.Dense2Corpus(np_corpus)
+
+    num_topics = 3
+    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
+                                id2word=dictionary,
+                                passes=4, alpha=[0.01] * num_topics,
+                                eta=[0.01] * len(dictionary.keys()))
+    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
+        print(str(i) + ": " + topic)
+        print()
+
+    bow_vector = dictionary.doc2bow(preprocess(imm[1]['content']))
+    print(lda_model[bow_vector])
+    print(imm[1])
+
+
+    print("------------------------------------------------------------------------------")
+
+    num_topics = 4
+    lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
+                                id2word=dictionary,
+                                passes=4, alpha=[0.01] * num_topics,
+                                eta=[0.01] * len(dictionary.keys()))
+    for i, topic in lda_model.show_topics(formatted=True, num_topics=num_topics, num_words=20):
+        print(str(i) + ": " + topic)
+        print()
+
+    print("------------------------------------------------------------------------------")
 
     num_topics = 5
     lda_model = models.LdaModel(new_corpus, num_topics=num_topics,
