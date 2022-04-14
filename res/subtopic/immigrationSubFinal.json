@@ -1,0 +1,122 @@
+[
+ {
+  "illegal": 0.267,
+  "law": 0.185,
+  "enforcement": 0.141,
+  "legal": 0.085,
+  "deportation": 0.073,
+  "laws": 0.062,
+  "status": 0.056,
+  "criminal": 0.048,
+  "security": 0.045,
+  "policies": 0.038
+ },
+ {
+  "percent": 0.13,
+  "voters": 0.124,
+  "undocumented": 0.123,
+  "party": 0.11,
+  "bush": 0.103,
+  "support": 0.095,
+  "presidential": 0.083,
+  "election": 0.081,
+  "reform": 0.078,
+  "campaign": 0.073
+ },
+ {
+  "court": 0.236,
+  "judge": 0.114,
+  "executive": 0.109,
+  "government": 0.093,
+  "ban": 0.088,
+  "decision": 0.078,
+  "legal": 0.078,
+  "countries": 0.074,
+  "security": 0.068,
+  "supreme": 0.061
+ },
+ {
+  "bill": 0.201,
+  "house": 0.139,
+  "senate": 0.138,
+  "republicans": 0.126,
+  "republican": 0.081,
+  "reform": 0.079,
+  "legislation": 0.064,
+  "security": 0.064,
+  "sen": 0.057,
+  "gop": 0.051
+ },
+ {
+  "obama": 0.326,
+  "congress": 0.12,
+  "house": 0.102,
+  "action": 0.095,
+  "citizenship": 0.07,
+  "amnesty": 0.064,
+  "white": 0.06,
+  "executive": 0.056,
+  "program": 0.054,
+  "republican": 0.053
+ },
+ {
+  "children": 0.331,
+  "families": 0.154,
+  "asylum": 0.132,
+  "parents": 0.132,
+  "child": 0.046,
+  "separated": 0.045,
+  "process": 0.041,
+  "seekers": 0.041,
+  "family": 0.04,
+  "illegally": 0.038
+ },
+ {
+  "border": 0.458,
+  "mexico": 0.144,
+  "migrants": 0.071,
+  "patrol": 0.063,
+  "security": 0.059,
+  "agents": 0.045,
+  "southern": 0.042,
+  "mexican": 0.041,
+  "government": 0.039,
+  "caravan": 0.038
+ },
+ {
+  "workers": 0.197,
+  "visas": 0.126,
+  "visa": 0.102,
+  "citizens": 0.098,
+  "born": 0.095,
+  "foreign": 0.088,
+  "based": 0.082,
+  "jobs": 0.073,
+  "green": 0.07,
+  "skilled": 0.07
+ },
+ {
+  "ice": 0.276,
+  "detention": 0.138,
+  "family": 0.13,
+  "agency": 0.078,
+  "custody": 0.072,
+  "officials": 0.069,
+  "center": 0.068,
+  "agents": 0.061,
+  "customs": 0.055,
+  "county": 0.054
+ },
+ {
+  "trump": 0.457,
+  "wall": 0.104,
+  "daca": 0.095,
+  "democrats": 0.078,
+  "white": 0.06,
+  "government": 0.051,
+  "funding": 0.044,
+  "dreamers": 0.038,
+  "donald": 0.038,
+  "congress": 0.036
+ }
+]
