@@ -1,0 +1,86 @@
+[
+ {
+  "trump": 0.295,
+  "democrats": 0.172,
+  "sen": 0.081,
+  "congress": 0.08,
+  "campaign": 0.066,
+  "senate": 0.066,
+  "voters": 0.064,
+  "election": 0.06,
+  "pass": 0.06,
+  "single": 0.055
+ },
+ {
+  "obama": 0.263,
+  "medicare": 0.17,
+  "website": 0.116,
+  "gov": 0.079,
+  "sebelius": 0.073,
+  "services": 0.069,
+  "private": 0.069,
+  "program": 0.059,
+  "payer": 0.056,
+  "democratic": 0.046
+ },
+ {
+  "medical": 0.172,
+  "doctors": 0.152,
+  "patients": 0.134,
+  "site": 0.122,
+  "hospital": 0.082,
+  "women": 0.072,
+  "cancer": 0.069,
+  "children": 0.066,
+  "agency": 0.066,
+  "treatment": 0.065
+ },
+ {
+  "insurance": 0.183,
+  "coverage": 0.15,
+  "obamacare": 0.146,
+  "medicaid": 0.089,
+  "law": 0.085,
+  "plan": 0.078,
+  "plans": 0.076,
+  "tax": 0.066,
+  "insurers": 0.066,
+  "affordable": 0.062
+ },
+ {
+  "obamacare": 0.173,
+  "house": 0.17,
+  "bill": 0.146,
+  "republicans": 0.129,
+  "republican": 0.08,
+  "senate": 0.075,
+  "repeal": 0.07,
+  "gop": 0.068,
+  "vote": 0.045,
+  "white": 0.044
+ },
+ {
+  "insurance": 0.228,
+  "exchanges": 0.134,
+  "plans": 0.093,
+  "enrollment": 0.089,
+  "consumers": 0.085,
+  "companies": 0.08,
+  "premiums": 0.077,
+  "market": 0.077,
+  "cost": 0.069,
+  "policy": 0.068
+ },
+ {
+  "law": 0.349,
+  "court": 0.154,
+  "congress": 0.105,
+  "mandate": 0.087,
+  "supreme": 0.071,
+  "decision": 0.066,
+  "obama": 0.054,
+  "legal": 0.04,
+  "ruling": 0.039,
+  "justice": 0.035
+ }
+]
