@@ -6,7 +6,7 @@ This is the code for the final research project of Emory University CS329 Comput
 
 - We  applied NLP techniques including Linear discriminant analysis (LDA) with Gibbs sampling and Bert-based sentiment analysis on over 30,000 news articles from major US news media and conducted a topic-based analysis to detect their potential political leanings
 
-- A paper summarizing our work can be found [here] (https://github.com/yunjiewu777/political-tendencies-for-news-media/blob/main/political-tendencies-of-news-media.pdf)
+- A paper summarizing our work can be found [here](https://github.com/yunjiewu777/political-tendencies-for-news-media/blob/main/political-tendencies-of-news-media.pdf)
 
 ### Abstract
 
