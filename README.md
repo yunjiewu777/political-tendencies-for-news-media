@@ -14,8 +14,8 @@ Major studies in the field of news media analysis focus mostly on the categoriza
 
 ## Contributors
 
-Yunjie(Ruby) Wu [@yunjiewu777](https://github.com/yunjiewu777)
+- Yunjie(Ruby) Wu [@yunjiewu777](https://github.com/yunjiewu777)
 
-Xinran(Alexandra) Li [@shinrannli](https://github.com/shinrannli)
+- Xinran(Alexandra) Li [@shinrannli](https://github.com/shinrannli)
 
-Jingyu(Eula) Wang [@EulaFRL](https://github.com/EulaFRL)
+- Jingyu(Eula) Wang [@EulaFRL](https://github.com/EulaFRL)
